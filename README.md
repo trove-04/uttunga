@@ -1,3 +1,3 @@
 # uttunga
 
-This project is done my Trove company.
+This project is done by Trove company.
